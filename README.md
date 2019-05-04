@@ -41,6 +41,9 @@ Upload the following 2 files:
    | Arts                                           70-75                  |
    +-----------------------------------------------------------------------+
 ```
+
+## Snapshots:
+
 ![](https://github.com/mhmdar/UniversityAdmission/blob/master/Capture1.JPG)
 ![](https://github.com/mhmdar/UniversityAdmission/blob/master/Capture2.JPG)
 ![](https://github.com/mhmdar/UniversityAdmission/blob/master/Capture3.JPG)
