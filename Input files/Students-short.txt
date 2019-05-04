@@ -1,0 +1,13 @@
+       Student                  Tawjihi    High-School   Placement 
+         name                     mark         mark      test grade
+----------------------------	--------   -----------	 ----------
+Ahmad Hussein Ammar Yousef         83.6        87.9          79
+Samiah Sameh Samahneh              97.0         97            94
+Rami As'ad Abdulla Saif Eddin      98.1        97            98
+Ali Al Saeed                       10          21            31
+Yosef Fawadleh                     70          71            76
+Mahmoud Abdeldayem                 75          78            79
+Rawan Abu Shmais                   90          88            91
+Tahani Al Tahhan                   91.7        93             88.5   
+Hanadi Haroun Hodaly               60           62            0
+

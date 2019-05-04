@@ -1,0 +1,10 @@
+|         Student              |  Tawjihi  |  School  | Placement | Final
+|          Name                |   mark    |   mark   |  mark     | mark
+
+|************************************************************************
+|  STUDENTS REJECTED
+|  3  rejected
+|------------------------------------------------------------------------
+Ali Al Saeed                      10.0        21.0        31.0        20.0
+Hanadi Haroun Hodaly              60.0        62.0        0.0        39.0
+Hayyan Al Mughrabi                71.6        81.0        50.0        66.0
