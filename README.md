@@ -4,8 +4,7 @@ University Admission mini system
 Upload the following 2 files:
 
 1- Student info including name, Tawjihi exam mark, high-school mark and placement test mark as follows:
-'''
-   +----------------------------------------------------------------------+
+'''   +----------------------------------------------------------------------+
    |        Student                  Tawjihi    High-School   Placement   |
    |          name                     mark         mark      test grade  |
    | ----------------------------    --------   -----------    ---------- |
@@ -17,8 +16,7 @@ Upload the following 2 files:
    +----------------------------------------------------------------------+
 '''
 2- University acceptance criteria:
-'''
-   +-----------------------------------------------------------------------+
+'''   +-----------------------------------------------------------------------+
    |             UNIVERSITY'S ADMISSION ACCEPTENCE CRITERIA                |
    | ===================================================================== |
    | Tawjihi grade's rate    School grade's rate     Placement test's rate |
