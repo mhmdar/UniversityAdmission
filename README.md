@@ -13,7 +13,7 @@ Upload the following 2 files:
    | Samiah Sameh Samahneh              97.0        97            94      |
    | Rami As'ad Abdulla Saif Eddin      98.1        97            98      |
    | Ali Al Saeed                       10          21            31      |
-   | Yosef Fawadleh                     70          71            76      |
+   | Yousef Nidal                       70          71            76      |
    +----------------------------------------------------------------------+
 ```
 2- University acceptance criteria:
